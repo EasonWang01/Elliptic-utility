@@ -33,3 +33,42 @@ const curve = ecparams.getCurve();
   - valueOf: [Function: nbv],
   - fromByteArrayUnsigned: [Function],
   - fromByteArraySigned: [Function] }
+  #### Instance
+  ```
+Instance
+add
+and
+andNot
+bitCount
+byteCount
+byteValue
+clearBit
+clone
+divide
+divideAndRemainder
+equals
+flipBit
+gcd
+getLowestSetBit
+intValue
+max
+min
+modInverse
+modPow
+multiply
+not
+or
+pow
+remainder
+setBit
+shiftLeft
+shiftRight
+shortValue
+signum
+subtract
+testBit
+toByteArray
+toBuffer
+toHex
+xor
+  ```
