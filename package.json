@@ -1,7 +1,7 @@
 {
   "name": "elliptic-utility",
-  "version": "0.0.1",
-  "description": "Port From http://www-cs-students.stanford.edu/~tjw/jsbn/LICENSE",
+  "version": "0.0.2",
+  "description": "Porting from http://www-cs-students.stanford.edu/~tjw/jsbn/LICENSE",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
