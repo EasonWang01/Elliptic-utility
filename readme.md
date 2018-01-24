@@ -33,9 +33,8 @@ const curve = ecparams.getCurve();
   - valueOf: [Function: nbv],
   - fromByteArrayUnsigned: [Function],
   - fromByteArraySigned: [Function] }
-  #### Instance
+  - Instance
   ```
-Instance
 add
 and
 andNot
